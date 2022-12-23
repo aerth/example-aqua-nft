@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/example-aqua-nft/static/css/main.0ff5522a.css",
-    "main.js": "/example-aqua-nft/static/js/main.e6b280a5.js",
-    "static/js/285.259e978f.chunk.js": "/example-aqua-nft/static/js/285.259e978f.chunk.js",
-    "static/js/563.75f2b613.chunk.js": "/example-aqua-nft/static/js/563.75f2b613.chunk.js",
-    "static/js/942.a5fde5bf.chunk.js": "/example-aqua-nft/static/js/942.a5fde5bf.chunk.js",
-    "static/js/332.89ed0987.chunk.js": "/example-aqua-nft/static/js/332.89ed0987.chunk.js",
-    "static/js/836.bcd3b864.chunk.js": "/example-aqua-nft/static/js/836.bcd3b864.chunk.js",
-    "static/js/238.4727529a.chunk.js": "/example-aqua-nft/static/js/238.4727529a.chunk.js",
+    "main.js": "/example-aqua-nft/static/js/main.a89ccd22.js",
+    "static/js/285.6df850c9.chunk.js": "/example-aqua-nft/static/js/285.6df850c9.chunk.js",
+    "static/js/563.e035a5e1.chunk.js": "/example-aqua-nft/static/js/563.e035a5e1.chunk.js",
+    "static/js/942.c82374c2.chunk.js": "/example-aqua-nft/static/js/942.c82374c2.chunk.js",
+    "static/js/332.05cd058a.chunk.js": "/example-aqua-nft/static/js/332.05cd058a.chunk.js",
+    "static/js/836.55448209.chunk.js": "/example-aqua-nft/static/js/836.55448209.chunk.js",
+    "static/js/238.e080ff14.chunk.js": "/example-aqua-nft/static/js/238.e080ff14.chunk.js",
     "index.html": "/example-aqua-nft/index.html"
   },
   "entrypoints": [
     "static/css/main.0ff5522a.css",
-    "static/js/main.e6b280a5.js"
+    "static/js/main.a89ccd22.js"
   ]
 }
