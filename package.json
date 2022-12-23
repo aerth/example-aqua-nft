@@ -1,0 +1,46 @@
+{
+  "name": "example-aqua-nft",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^16.7.13",
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@walletconnect/jsonrpc-types": "^1.0.0-beta.1",
+    "@walletconnect/types": "^2.1.5",
+    "@web3modal/ethereum": "2.0.0-beta.10",
+    "@web3modal/react": "2.0.0-beta.10",
+    "ethers": "^5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-router-dom": "^6.6.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.4.2",
+    "wagmi": "^0.9.5",
+    "web-vitals": "^2.1.0",
+    "web3modal": "^1.9.10"
+  },
+  "_note": "you need to change this 'REACT_APP_WALLETCONNECT' below.",
+  "scripts": {
+    "start": "REACT_APP_WALLETCONNECT=9ca864f5c26be6a6f7beeeb28321553f react-scripts start",
+    "build": "REACT_APP_WALLETCONNECT=9ca864f5c26be6a6f7beeeb28321553f CI=false GENERATE_SOURCEMAP=false react-scripts build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
